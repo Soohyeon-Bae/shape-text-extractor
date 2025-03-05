@@ -12,7 +12,7 @@ Extract text from specified shapes using OCR
 pdf-text-extractor/
 
 │── 📂 data/                      
-│   ├──📂 input/
+│   ├──📂 input/                        
 │   │  └── your_pdf_file.pdf  
 │   └──📂 output/  
 │      └── output_pdf_file.pdf      
