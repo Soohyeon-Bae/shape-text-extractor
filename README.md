@@ -17,16 +17,16 @@ pdf-text-extractor/
 │   └──📂 output/  
 │      └── output_pdf_file.pdf      
 │        
-│── 📂 src/                      # Source code directory          
+│── 📂 src/                              
 │   ├── __init__.py           
-│   ├── pdf_handler.py        # Functions for handling PDF files        
-│   ├── image_processor.py     # Functions for image processing           
-│   ├── ocr_handler.py        # Functions for OCR operations        
-│   └── utils.py              # Utility functions        
+│   ├── pdf_handler.py             
+│   ├── image_processor.py                
+│   ├── ocr_handler.py                
+│   └── utils.py                     
 │        
-├── main.py                   # Main script to run the extraction process      
-├── requirements.txt          # List of required Python packages        
-└── README.md                 # Project documentation       
+├── main.py                      
+├── requirements.txt                  
+└── README.md                        
 
 
 ## Installation
