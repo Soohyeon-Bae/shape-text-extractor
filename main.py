@@ -7,8 +7,8 @@ import cv2 as cv
 import numpy as np
 
 if __name__ == "__main__":
-    input_pdf_path = 'data/input/test_PID.pdf'
-    output_pdf_path = 'data/output/output.pdf'
+    input_pdf_path = 'data/input/your_pdf_file'
+    output_pdf_path = 'data/output/output_pdf_file'
 
     # 1. 원본 PDF를 이미지로 변환
     images_original = convert_from_path(input_pdf_path)
