@@ -53,6 +53,12 @@ python main.py
 ## Contributing
 Feel free to submit issues or pull requests to improve this project. Contributions are welcome!
 
+## References
+This project references the following materials:
+
+- [[파이썬] 파이썬 + OpenCV활용 이미지에서 도형 인식]([blog_link](https://blog.naver.com/sharedrecord/222576941770)) - Author: 기록과 공유  
+  This post explains the basic idea and implementation method of the project.
+
 ## License
 This project is licensed under the MIT License.
 
