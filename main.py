@@ -6,8 +6,8 @@ from src.process import process_pdf
 from src.detector import detect_arrows
 
 if __name__ == "__main__":
-    input_pdf_path = 'data/input/test_PID.pdf'
-    output_pdf_path = 'data/output/text_removed_PID.pdf'
+    input_pdf_path = 'data/input/your_pdf_file'
+    output_pdf_path = 'data/output/text_removed_pdf_file'
 
     # PDF 처리 및 텍스트 추출
     img_original, overlay, img_overlayed, mask, text_only, extracted_text = process_pdf(input_pdf_path, output_pdf_path)
