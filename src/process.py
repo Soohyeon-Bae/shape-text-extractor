@@ -1,7 +1,7 @@
 # src/process.py
 
 from .pdf_handler import remove_text_from_pdf
-from .image_processor import process_image, set_label
+from .image_preprocessor import process_image, set_label
 from .ocr_handler import extract_text_from_masked_image
 from .utils import create_mask_from_contours
 from pdf2image import convert_from_path
