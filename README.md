@@ -1,14 +1,14 @@
 # PDF Text Extractor
 This project provides a set of tools to extract text from shapes within PDF documents. It utilizes PyMuPDF for PDF handling, OpenCV for image processing, and Tesseract for Optical Character Recognition (OCR).
-
+ 
 ## Features
 Remove text from PDF files
 Convert PDF pages to images
 Process images to detect shapes
 Extract text from specified shapes using OCR
-
+ 
 ## Directory Structure
-
+ 
 pdf-text-extractor/
 
 │── 📂 data/                      
